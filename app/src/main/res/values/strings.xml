@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Android Brojač Koraka</string>
+    <string name="step_counter">Brojač Koraka</string>
+    <string name="obtaining_latest_step">Dohvaćanje posljednih koraka...</string>
+
+    <string name="permission_prompt">Molim vas dopustite pristup dozvolama kako bih koristili ovu aplikaciju! !</string>
+    <string name="permissions_rationale">Dozvola je odbijena , Molimo vas dopustite dozvole u postavkama kako bih koristili ovu aplikaciju!</string>
+    <string name="open_settings">Otvori postavke</string>
+    <string name="enable_permissions">Dopusti dozvoole</string>
+    <string name="goto_settings">Idi u postavke!</string>
+    <string name="Pedometer">Pedometar</string>
+    <string name="Record">Statistika</string>
+    <string name="Profile">Profil</string>
+
+    <!-- Notification -->
+    <string name="notification_title">Brojač Koraka</string>
+    <string name="service_notification_content">Dohvaćanje koraka uživo..</string>
+    <string name="worker_notification_content">Dohvaćanje koraka..</string>
+
+    <!-- Ignore Battery Optimization -->
+    <string name="ignore_dialog_title">Ignoriraj optimizaciju baterije</string>
+    <string name="ignore_dialog_text">Ova aplikacija izvršava operacije u pozadini .\n Molimo vas dopustite.</string>
+    <string name="ignore_dialog_confirm">OK</string>
+</resources>
